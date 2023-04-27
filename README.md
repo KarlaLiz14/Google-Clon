@@ -2,10 +2,10 @@
 #### Creado con HTML en el CSS en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [ Intro] (#-Intro)
-* [ ¿Qué construí?](#¿Qué construí?)
-* [ Objetivos del proyecto](#Objetivo del proyecto)
-* [ ¡Link al Demo!] (#¡Link al Demo!)
+* [ Intro ](https://github.com/KarlaLiz14/KarlaLiz14.github.io/edit/main/README.md#intro)
+* [ ¿Qué construí?](https://github.com/KarlaLiz14/KarlaLiz14.github.io/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [ Objetivos del proyecto](https://github.com/KarlaLiz14/KarlaLiz14.github.io/edit/main/README.md#objetivo-del-proyecto)
+* [ ¡Link al Demo!](https://github.com/KarlaLiz14/KarlaLiz14.github.io/edit/main/README.md#link-al-demo)
 
 ***
 
