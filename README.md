@@ -34,7 +34,7 @@ Aprender a utilizar las etiquetas de HTML5 y las propieddes de CSS3; así como a
 
 ## ¡Link al Demo!
 
-Visualiza mi clon de la página de Google, mediante el siguiente link: ([Clonación de Google](https://karlaliz14.github.io/Google-Clon.io/)) 
+Visualiza mi clon de la página de Google, mediante el siguiente link: [Clonación de Google](https://karlaliz14.github.io/Google-Clon.io/)
 
 
 
